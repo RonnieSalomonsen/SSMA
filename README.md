@@ -24,7 +24,7 @@ SSMA is a simple malware analyzer written in Python 3.
 
 * Find if documents have been crafted to leverage malicious code.
 
-## OSX
+## OSX Dependency
 ```
 brew install openssl
 
